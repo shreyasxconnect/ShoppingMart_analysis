@@ -6,6 +6,10 @@ A data analysis project based on ShoppingMart sales data, covering data analysis
 
 This project analyzes ShoppingMart sales data to identify sales trends, category performance, product performance, and sales channel contribution.
 
+## 📊 Power BI Dashboard
+
+![ShoppingMart Sales Dashboard](Dashboard.png)
+
 ## Tasks Completed
 
 ### Task 1 – Data Analysis
