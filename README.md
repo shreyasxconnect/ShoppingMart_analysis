@@ -52,6 +52,13 @@ Created an interactive Power BI dashboard covering:
 
 The Power BI dashboard provides an overview of ShoppingMart sales performance through KPIs and visualizations.
 
+## 🔍 Key Insights
+
+- Electronics generated the highest revenue among the product categories.
+- Revenue varied significantly across months, showing clear monthly fluctuations.
+- Online and In-Store channels contributed the majority of total revenue.
+- The dashboard highlights the top and bottom performing products based on revenue.
+
 ## Author
 
 Shreyas Kulkarni
