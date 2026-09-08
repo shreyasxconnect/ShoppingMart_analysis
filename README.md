@@ -50,4 +50,4 @@ The Power BI dashboard provides an overview of ShoppingMart sales performance th
 
 ## Author
 
-Shreyas
+Shreyas Kulkarni
